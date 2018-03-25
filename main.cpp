@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//Данная программа является учебной
 int main()
 {
 }
