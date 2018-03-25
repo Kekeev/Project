@@ -8,6 +8,7 @@ int enter(int a,int b)
 	cin >> a;
 	cout << "Введите второе число: ";
 	cin >> b;
+	return a+b;
 }
  
 #endif
